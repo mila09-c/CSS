@@ -1,0 +1,60 @@
+*:not(body, html){
+    background-color: rgb(91, 36, 163);
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+}
+
+h1{
+    color: white;
+}
+
+.mi-clase{
+    color: rgb(198, 68, 250);
+    border: 1px solid rgb(251, 120, 255);
+}
+
+div p{
+    color: rgb(250, 137, 160);
+}
+
+div{
+    width: 90%;
+    height: 300px;
+    background-color: blanchedalmond;
+}
+
+.box{
+    background-color: rgb(75, 3, 85);
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 2px solid plum;
+    margin: 10px;
+    box-sizing: content-box;
+}
+
+.box p{
+    color: azure;
+    background-color: rgb(240, 60, 120);
+}
+
+a{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(165, 42, 104);
+}
+
+a{
+    display: inline-block;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(160, 160, 255);
+    display: block;
+}
+
